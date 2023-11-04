@@ -1,6 +1,6 @@
 Hi, I’m Yejun
 
-I'm currently working on modeling how realistic noise in measurements of phenotype affect the performance of polygenic prediction models.
+I'm currently looking for projects to build in the future.
 
 In general, I work on anything that interests me - the big problems, creative pursuits, mathematical tricks, et cetera. 
 
