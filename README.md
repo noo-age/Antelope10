@@ -1,4 +1,4 @@
-Hi, I’m Yejun
+Hi, I’m Yejun.
 
 I'm currently looking for projects to build in the future.
 
